@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Penguji Program - Belajar menjadi Software Quality Engineer",
+    "description": "",
+    "home_page_url": "https://pengujiprogram.github.io",
+    "feed_url": "https://pengujiprogram.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://pengujiprogram.github.io/media/website/logo_bawah_300.jpg",
+    "author": {
+        "name": "Fachrul Choliluddin"
+    },
+    "items": [
+        {
+            "id": "https://pengujiprogram.github.io/posttitle-or-sitename/",
+            "url": "https://pengujiprogram.github.io/posttitle-or-sitename/",
+            "title": "Menjadi Penguji Program Komputer (software tester)",
+            "summary": "Selamat datang teman-teman, Pada kesempatan kali ini kita akan belajar sama-sama tentang Software testing (pengujian program komputer) sedari tingkat pemula atau baru meniti karir di dunia per-testingan. Kita akan coba membahas mengenai konsep dan metode pengujian yang telah saya praktikan sehari-hari. Kita awali dari tema&hellip;",
+            "content_html": "<p>Selamat datang teman-teman,</p>\n<p>Pada kesempatan kali ini kita akan belajar sama-sama tentang Software testing (pengujian program komputer) sedari tingkat pemula atau baru meniti karir di dunia per-testingan. Kita akan coba membahas mengenai konsep dan metode pengujian yang telah saya praktikan sehari-hari.</p>\n<p>Kita awali dari tema dasar pengujian program komputer hingga hal-hal yang lebih rumit lagi nantinya.</p>\n<blockquote>\n<p>Halaman ini berisi daftar isi dari artikel yang telah dituliskan, jadi akan selalu diperbaharui secara berkala ya, sering-sering berkunjung jadinya ya :) </p>\n</blockquote>\n<h2 id=\"mcetoc_1dc7bstvs1\">Pengujian Manual untuk pemula</h2>\n<p>Pada bagian ini kita akan bahas mengenai beberpaa teori pengujian, diantaranya</p>\n<ul>\n<li>Apa itu Pengujian Program komputer (software testing)?</li>\n<li>Kenapa perlu adanya pengujian?</li>\n</ul>",
+            "image": "https://pengujiprogram.github.io/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg",
+            "author": {
+                "name": "Fachrul Choliluddin"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-01T06:23:08+07:00",
+            "date_modified": "2019-06-01T06:23:08+07:00"
+        }
+    ]
+}

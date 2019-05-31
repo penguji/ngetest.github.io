@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Penguji Program - Belajar menjadi Software Quality Engineer</title>
+    <link href="https://pengujiprogram.github.io/feed.xml" rel="self" />
+    <link href="https://pengujiprogram.github.io" />
+    <updated>2019-06-01T06:34:15+07:00</updated>
+    <author>
+        <name>Fachrul Choliluddin</name>
+    </author>
+    <id>https://pengujiprogram.github.io</id>
+
+    <entry>
+        <title>Menjadi Penguji Program Komputer (software tester)</title>
+        <author>
+            <name>Fachrul Choliluddin</name>
+        </author>
+        <link href="https://pengujiprogram.github.io/posttitle-or-sitename/"/>
+        <id>https://pengujiprogram.github.io/posttitle-or-sitename/</id>
+
+        <updated>2019-06-01T06:23:08+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://pengujiprogram.github.io/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg" alt="" />
+                    Selamat datang teman-teman, Pada kesempatan kali ini kita akan belajar sama-sama tentang Software testing (pengujian program komputer) sedari tingkat pemula atau baru meniti karir di dunia per-testingan. Kita akan coba membahas mengenai konsep dan metode pengujian yang telah saya praktikan sehari-hari. Kita awali dari tema&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://pengujiprogram.github.io/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg" alt="" />
+                <p>Selamat datang teman-teman,</p>
+<p>Pada kesempatan kali ini kita akan belajar sama-sama tentang Software testing (pengujian program komputer) sedari tingkat pemula atau baru meniti karir di dunia per-testingan. Kita akan coba membahas mengenai konsep dan metode pengujian yang telah saya praktikan sehari-hari.</p>
+<p>Kita awali dari tema dasar pengujian program komputer hingga hal-hal yang lebih rumit lagi nantinya.</p>
+<blockquote>
+<p>Halaman ini berisi daftar isi dari artikel yang telah dituliskan, jadi akan selalu diperbaharui secara berkala ya, sering-sering berkunjung jadinya ya :) </p>
+</blockquote>
+<h2 id="mcetoc_1dc7bstvs1">Pengujian Manual untuk pemula</h2>
+<p>Pada bagian ini kita akan bahas mengenai beberpaa teori pengujian, diantaranya</p>
+<ul>
+<li>Apa itu Pengujian Program komputer (software testing)?</li>
+<li>Kenapa perlu adanya pengujian?</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>
