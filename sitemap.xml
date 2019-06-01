@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://pengujiprogram.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://penguji.id/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://pengujiprogram.github.io/</loc>
+<loc>https://penguji.id/</loc>
 </url>
 <url>
-<loc>https://pengujiprogram.github.io/posttitle-or-sitename/</loc>
+<loc>https://penguji.id/apa-itu-pengujian-aplikasi-komputer-software-testing/</loc>
+<lastmod>2019-06-01T16:27:56+07:00</lastmod>
+<image:image>
+<image:loc>https://penguji.id/media/posts/2/background-blank-craft-301703.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://penguji.id/posttitle-or-sitename/</loc>
 <lastmod>2019-06-01T06:23:08+07:00</lastmod>
 <image:image>
-<image:loc>https://pengujiprogram.github.io/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg</image:loc>
+<image:loc>https://penguji.id/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
