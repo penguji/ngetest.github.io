@@ -3,12 +3,60 @@
     <title>Mari menjadi Software Quality Engineer | Penguji Mutu Program Komputer</title>
     <link href="https://penguji.id/feed.xml" rel="self" />
     <link href="https://penguji.id" />
-    <updated>2019-06-08T21:51:59+07:00</updated>
+    <updated>2019-06-09T22:27:42+07:00</updated>
     <author>
         <name>Fachrul Choliluddin</name>
     </author>
     <id>https://penguji.id</id>
 
+    <entry>
+        <title>Kenapa aplikasi/program perlu di tes dulu?</title>
+        <author>
+            <name>Fachrul Choliluddin</name>
+        </author>
+        <link href="https://penguji.id/kenapa-harus-dites/"/>
+        <id>https://penguji.id/kenapa-harus-dites/</id>
+
+        <updated>2019-06-09T22:21:55+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://penguji.id/media/posts/4/60-km-h-accident-airbag-163016.jpg" alt="" />
+                    Tidak ada gading yang tak retak, manusia cenderung melakukan kesalahan, dalam kesempatan ini kita akan bahas terkhusus pada rekayasa perangkat lunak, bahwa sering kali permasalahan yang timbul dikarenakan kurang memperhatikan hal-hal penting, salah asumsi, ceroboh, atau bahkan tidak tahu pasti apa yang dikerjakan sistem. Kita&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://penguji.id/media/posts/4/60-km-h-accident-airbag-163016.jpg" alt="" />
+                <p>Tidak ada gading yang tak retak, manusia cenderung melakukan kesalahan, dalam kesempatan ini kita akan bahas terkhusus pada rekayasa perangkat lunak, bahwa sering kali permasalahan yang timbul dikarenakan kurang memperhatikan hal-hal penting, salah asumsi, ceroboh, atau bahkan tidak tahu pasti apa yang dikerjakan sistem. Kita akan coba bahas mengenai topik ini ya.</p>
+<p>Note: Pengujian yang dimaksud disini tidak terbatas hanya validasi akhir oleh tim QA tapi hal testing secara umum, termasuk juga pengujian oleh developer, unit testing, maupun acceptance oleh PO.</p>
+<hr>
+<h2 id="mcetoc_1dctasp700">Jadi kenapa aplikasi/program perlu diuji?</h2>
+<p>Ok, mari kita bahas kenapa kita perlu melakukan pengujian dalam rekayasa perangkat lunak.</p>
+<p>Proses pengujian sejatinya akan memberikan informasi berharga mengenai kondisi dari aplikasi/program, seberapa layak ia memenuhi standar mutu yang diharapkan  dengan cara melakukan verifikasi terhadap sistem apakah sudah memenuhi berbagai kriteria yang diharapkan seperti fungsionalitas, daya kinerja (performance), keandalan (reliability), keamanan (security), dan lain sebagainya. Verifikasi disini adalah memastikan bahwa kita merekayasa perangkat lunak dengan benar.</p>
+<hr>
+<h2 id="mcetoc_1dctbjbnm1">Apakah sistem sudah bebas masalah jika lolos hasil pengujian?</h2>
+<p>Hmm.. terlalu naif jika kita mengatakan sistem sudah bebas masalah, potensi kesalahan yang lolos masih tetap ada walaupun bisa lebih diminimalisir, menemukan masalah/bug/defect bukanlah satu-satunya tujuan dari pengujian aplikasi/program, sejatinya pengujian akan berdampak pada peningkatan kualitas dari produk, karena proses validasi yang dijalankan (jika dilakukan dengan benar) akan menjaga bahwa kita mengerjakan sistem dengan benar, dan deteksi dini masalah yang ada sehingga bisa segera diperbaiki sebelum berdampak luas pada pengguna</p>
+<hr>
+<h2 id="mcetoc_1dctc1h3f2">Apa yang terjadi jika kita tidak melakukan pengujian aplikasi?</h2>
+<p>Risiko akan selalu melekat pada setiap rekayasa perangkat lunak, sistem bisa saja tidak bekerja sebagaimana mestinya, atau proyek pengembangan yang tidak bisa diselesaikan tepat waktu, sehingga terkadang proses pengujian menjadi korban untuk dipersingkat atau bahkan ditiadakan.</p>
+<p>Efek dari tidak melakukan pengujian aplikasi sebelum rilis adalah kecerobohan, kita mengirimkan "kucing dalam karung" ke pada pengguna aplikasi, bisa jadi bom waktu yang bisa mencoreng nama baik perusahaan atau bahkan membuat perusahan merugi, atau bahkan bisa saja mengancam jiwa seseorang!</p>
+<p>Sebelum kita lanjutkan, hal yang harus kita perhatikan sebagai dampak yang ditimbulkan dari kesalahan pada aplikasi adalah:</p>
+<ol>
+<li>Manusia. (contoh: menjadi penyebab kecelakaan pada kendaraan, support sistem pasien tidak berfungsi)</li>
+<li>Perusahaan. (contoh: salah perhitungan sistem pembayaran yang mengakibatkan perusahaan mengalami kerugian)</li>
+<li>Lingkungan (contoh: pelepasan gas kimia atau radiasi ke atmosfir tanpa terdeteksi)</li>
+</ol>
+Bisa saja suatu ketika karena sebuah kesalahan fatal bisa berdampak pada semua (ke-tiga) sisi tersebut sekaligus, misalkan ada kereta api pengangut limbah kimia ternyata kehilangan kendali atas kemudi kereta atau hilang sambungan komunikasi dan berpotensi terjadi tabrakan dengan KRL commuterline yang berisi ribuan pekerja Bekasi, mana titik temu di Manggarai pula ahaha mirip <a href="https://www.imdb.com/title/tt0477080/">film Unstopabble (2010)</a> ya :D
+<p>Kita tentu saja akan sependapat bahwa pengujian pada sistem komunikasi pesawat lebih penting daripada pengujian form pendaftaran mahasiswa baru, kenapa? karena risiko yang ada pada sistem komunikasi pesawat tentu lebih besar, karena efek yang ditimbulkan ketika terjadi kegagalan sistem akan sangat serius. </p>
+<p>Seringkali proses pengujian dihadapkan pada segitiga sumber daya, dimana skala prioritas menjadi kompromi, karena memaksimalkan ketiganya menjadi hal yang cukup sulit diwujudkan.</p>
+<p><img class="post__image" src="https://penguji.id/media/posts/4/segitiga-sumberdaya-proyek.png" alt="" width="489" height="279"></p>
+<p> </p>
+<h2 id="mcetoc_1dcucn4gp0">Kesimpulan</h2>
+<p>Tujuan dilaksanakannya proses pengujian adalah untuk memastikan bahwa fitur utama pada fungsionalitas dan non-fungsional sudah dipastikan sebelum aplikasi/program memasuki tahap lebih lanjut, dan segala kesalahan yang ada telah dilaporkan pada tim pengembang untuk ditindaklanjuti. Pengujian tidak bisa menghilangkan kesalahan ataupun meningkatkan kualitas secara langsung, melainkan dengan penemuan masalah tersebuat diawal sehingga perbaikan bisa segera dilaksanakan dan berkontribusi terhadap peningkatan mutu program.</p>
+<p>Aktifitas pengujian program ini hanyalah satu komponen dari keseluruhan proses penjagaan mutu aplikasi/program dengan mengidentifikasi masalah yang bisa menimbulkan kesalahan serius bagi penguna dan perusahaan nantinya.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Apa itu Pengujian Aplikasi Komputer?</title>
         <author>
@@ -17,16 +65,16 @@
         <link href="https://penguji.id/apa-itu-pengujian-aplikasi-komputer-software-testing/"/>
         <id>https://penguji.id/apa-itu-pengujian-aplikasi-komputer-software-testing/</id>
 
-        <updated>2019-06-08T21:51:49+07:00</updated>
+        <updated>2019-06-09T22:26:53+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://penguji.id/media/posts/2/background-blank-craft-301703.jpg" alt="" />
+                        <img src="https://penguji.id/media/posts/2/evaluation-1516644_640.jpg" alt="" />
                     Pada kesempatan kali ini kita akan bahas secara umum mengenai Software testing (pengujian program komputer). Kita akan kupas lebih dalam terkait dengan Apa, Kenapa, Siapa, Kapan, Bagaimana (4W1H) pengujian program komputer itu. Pengujian aplikasi/program komputer (software testing) adalah proses menilai kualitas sebuah sistem komputer, salah&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://penguji.id/media/posts/2/background-blank-craft-301703.jpg" alt="" />
+                    <img src="https://penguji.id/media/posts/2/evaluation-1516644_640.jpg" alt="" />
                 <p>Pada kesempatan kali ini kita akan bahas secara umum mengenai Software testing (pengujian program komputer). Kita akan kupas lebih dalam terkait dengan Apa, Kenapa, Siapa, Kapan, Bagaimana (4W1H) pengujian program komputer itu.</p>
 <hr>
 <h2 id="mcetoc_1dc7c7gdd0">Apa itu software testing (pengujian aplikasi komputer)?</h2>
@@ -112,7 +160,7 @@
         <link href="https://penguji.id/cara-menjadi-software-quality-assurance-tester-test-engineer/"/>
         <id>https://penguji.id/cara-menjadi-software-quality-assurance-tester-test-engineer/</id>
 
-        <updated>2019-06-02T11:40:25+07:00</updated>
+        <updated>2019-06-09T22:26:46+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://penguji.id/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg" alt="" />
@@ -132,7 +180,7 @@
 <p>Pada bagian ini kita akan bahas mengenai beberpaa teori pengujian, diantaranya</p>
 <ul>
 <li><a href="#INTERNAL_LINK#/post/2" target="_blank" rel="noopener noreferrer">Apa itu Pengujian Program komputer (software testing)?</a></li>
-<li>Kenapa perlu adanya pengujian?</li>
+<li><a href="#INTERNAL_LINK#/post/4" target="_blank" rel="noopener noreferrer">Kenapa perlu adanya pengujian?</a></li>
 </ul>
             ]]>
         </content>
