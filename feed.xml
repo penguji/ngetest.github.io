@@ -3,12 +3,46 @@
     <title>Mari menjadi Software Quality Engineer | Penguji Mutu Program Komputer</title>
     <link href="https://penguji.id/feed.xml" rel="self" />
     <link href="https://penguji.id" />
-    <updated>2019-06-09T22:27:42+07:00</updated>
+    <updated>2019-08-22T19:55:18+07:00</updated>
     <author>
         <name>Fachrul Choliluddin</name>
     </author>
     <id>https://penguji.id</id>
 
+    <entry>
+        <title>Podcast </title>
+        <author>
+            <name>Fachrul Choliluddin</name>
+        </author>
+        <link href="https://penguji.id/podcast/"/>
+        <id>https://penguji.id/podcast/</id>
+
+        <updated>2019-08-22T19:55:13+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://penguji.id/media/posts/5/podcast-software-quality-assurance-indonesia.png" alt="" />
+                    Assalamualaikum wr. wb!!! Selamat datang di podcast "Celoteh Penguji Aplikasi Digital" :) Di podcast ini kita akan membasan topik seputar pengujian program digital (Software Quality Tester), ulasan buku/video tutorial terkait teting, wawancara tokoh, tips dan trik dalam menguji aplikasi digital dari sudut pandang @penguji.id Berikut&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://penguji.id/media/posts/5/podcast-software-quality-assurance-indonesia.png" alt="" />
+                <p>Assalamualaikum wr. wb!!!</p>
+<p>Selamat datang di podcast "Celoteh Penguji Aplikasi Digital" :)</p>
+<p>Di podcast ini kita akan membasan topik seputar pengujian program digital (Software Quality Tester), ulasan buku/video tutorial terkait teting, wawancara tokoh, tips dan trik dalam menguji aplikasi digital dari sudut pandang @penguji.id</p>
+<p>Berikut ini adalah catatan episode nya</p>
+<ul>
+<li><a href="#INTERNAL_LINK#/post/6" target="_blank" rel="noopener noreferrer">Episode 0. Pertamax gan!</a></li>
+<li><a href="#INTERNAL_LINK#/post/7" target="_blank" rel="noopener noreferrer">Episode 1. Karir sebagai Software Quality Assurance di Indonesia</a></li>
+<li><a href="#INTERNAL_LINK#/post/8" target="_blank" rel="noopener noreferrer">Episode 2. Peran Quality Assistance dan Cross Functional team</a></li>
+</ul>
+<p>Jangan lupa follow podcastnya ya!</p>
+<a href="https://open.spotify.com/show/6OjzcKKNUruvxAxK2Wmb4L?si=Blzs32yCQ3WAtC636yCjDQ" title="Listen on Spotify" target="_blank" rel="noopener noreferrer"> <img src="../../../../../media/files/spotify.svg" alt="Listen on Spotify"> </a>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kenapa aplikasi/program perlu di tes dulu?</title>
         <author>
@@ -160,7 +194,7 @@ Bisa saja suatu ketika karena sebuah kesalahan fatal bisa berdampak pada semua (
         <link href="https://penguji.id/cara-menjadi-software-quality-assurance-tester-test-engineer/"/>
         <id>https://penguji.id/cara-menjadi-software-quality-assurance-tester-test-engineer/</id>
 
-        <updated>2019-06-09T22:26:46+07:00</updated>
+        <updated>2019-06-10T06:03:22+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://penguji.id/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg" alt="" />
