@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://penguji.id/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://penguji.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://penguji.id/</loc>
+<loc>https://penguji.github.io/</loc>
 </url>
 <url>
-<loc>https://penguji.id/apa-itu-pengujian-aplikasi-komputer-software-testing/</loc>
+<loc>https://penguji.github.io/apa-itu-pengujian-aplikasi-komputer-software-testing/</loc>
 <lastmod>2019-06-09T22:26:53+07:00</lastmod>
 <image:image>
-<image:loc>https://penguji.id/media/posts/2/evaluation-1516644_640.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/2/evaluation-1516644_640.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://penguji.id/cara-menjadi-software-quality-assurance-tester-test-engineer/</loc>
+<loc>https://penguji.github.io/cara-menjadi-software-quality-assurance-tester-test-engineer/</loc>
 <lastmod>2019-06-10T06:03:22+07:00</lastmod>
 <image:image>
-<image:loc>https://penguji.id/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://penguji.id/episode-0/</loc>
+<loc>https://penguji.github.io/episode-0/</loc>
 <lastmod>2019-08-22T19:45:11+07:00</lastmod>
 </url>
 <url>
-<loc>https://penguji.id/episode-1/</loc>
+<loc>https://penguji.github.io/episode-1/</loc>
 <lastmod>2019-08-22T19:44:06+07:00</lastmod>
 </url>
 <url>
-<loc>https://penguji.id/episode-2/</loc>
+<loc>https://penguji.github.io/episode-2/</loc>
 <lastmod>2019-08-22T23:41:16+07:00</lastmod>
 </url>
 <url>
-<loc>https://penguji.id/kenapa-harus-dites/</loc>
+<loc>https://penguji.github.io/kenapa-harus-dites/</loc>
 <lastmod>2019-06-09T22:21:55+07:00</lastmod>
 <image:image>
-<image:loc>https://penguji.id/media/posts/4/60-km-h-accident-airbag-163016.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/4/60-km-h-accident-airbag-163016.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/media/posts/4/segitiga-sumberdaya-proyek.png</image:loc>
+<image:loc>https://penguji.github.io/media/posts/4/segitiga-sumberdaya-proyek.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://penguji.id/podcast/</loc>
+<loc>https://penguji.github.io/podcast/</loc>
 <lastmod>2019-08-22T20:07:30+07:00</lastmod>
 <image:image>
-<image:loc>https://penguji.id/media/posts/5/podcast-software-quality-assurance-indonesia.png</image:loc>
+<image:loc>https://penguji.github.io/media/posts/5/podcast-software-quality-assurance-indonesia.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/spotify.svg</image:loc>
+<image:loc>https://penguji.github.io/spotify.svg</image:loc>
 <image:title><![CDATA[Listen on Spotify]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://penguji.id/tentang-penguji-id/</loc>
+<loc>https://penguji.github.io/tentang-penguji-id/</loc>
 <lastmod>2019-06-02T00:43:31+07:00</lastmod>
 <image:image>
-<image:loc>https://penguji.id/media/posts/3/fachrul_talks_header_small_2.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/3/fachrul_talks_header_small_2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/media/posts/3/gallery/misi1-thumbnail.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/3/gallery/misi1-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Misi 1]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/media/posts/3/gallery/misi2-thumbnail.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/3/gallery/misi2-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Misi 2]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/media/posts/3/gallery/misi3-thumbnail.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/3/gallery/misi3-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Misi 3]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/media/posts/3/gallery/misi4-thumbnail.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/3/gallery/misi4-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Misi 4]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/media/posts/3/gallery/misi5-thumbnail.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/3/gallery/misi5-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Misi 5]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/media/posts/3/gallery/misi6-thumbnail.jpg</image:loc>
+<image:loc>https://penguji.github.io/media/posts/3/gallery/misi6-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Misi 6]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://penguji.id/media/posts/3/whois-fachrulch.png</image:loc>
+<image:loc>https://penguji.github.io/media/posts/3/whois-fachrulch.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mari menjadi Software Quality Engineer | Penguji Mutu Program Komputer</title>
-    <link href="https://penguji.id/feed.xml" rel="self" />
-    <link href="https://penguji.id" />
+    <link href="https://penguji.github.io/feed.xml" rel="self" />
+    <link href="https://penguji.github.io" />
     <updated>2019-08-22T23:41:25+07:00</updated>
     <author>
         <name>Fachrul Choliluddin</name>
     </author>
-    <id>https://penguji.id</id>
+    <id>https://penguji.github.io</id>
 
     <entry>
         <title>Podcast Celoteh Penguji Aplikasi Digital</title>
         <author>
             <name>Fachrul Choliluddin</name>
         </author>
-        <link href="https://penguji.id/podcast/"/>
-        <id>https://penguji.id/podcast/</id>
+        <link href="https://penguji.github.io/podcast/"/>
+        <id>https://penguji.github.io/podcast/</id>
 
         <updated>2019-08-22T20:07:30+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://penguji.id/media/posts/5/podcast-software-quality-assurance-indonesia.png" alt="" />
+                        <img src="https://penguji.github.io/media/posts/5/podcast-software-quality-assurance-indonesia.png" alt="" />
                     Assalamualaikum wr. wb!!! Selamat datang di podcast "Celoteh Penguji Aplikasi Digital" :) Di podcast ini kita akan membasan topik seputar pengujian program digital (Software Quality Tester), ulasan buku/video tutorial terkait teting, wawancara tokoh, tips dan trik dalam menguji aplikasi digital dari sudut pandang @penguji.id Berikut&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://penguji.id/media/posts/5/podcast-software-quality-assurance-indonesia.png" alt="" />
+                    <img src="https://penguji.github.io/media/posts/5/podcast-software-quality-assurance-indonesia.png" alt="" />
                 <p>Assalamualaikum wr. wb!!!</p>
 <p>Selamat datang di podcast "Celoteh Penguji Aplikasi Digital" :)</p>
 <p>Di podcast ini kita akan membasan topik seputar pengujian program digital (Software Quality Tester), ulasan buku/video tutorial terkait teting, wawancara tokoh, tips dan trik dalam menguji aplikasi digital dari sudut pandang @penguji.id</p>
@@ -38,7 +38,7 @@
 </ul>
 <p>Jangan lupa follow podcastnya ya!</p>
 <p> </p>
-<a href="https://open.spotify.com/show/6OjzcKKNUruvxAxK2Wmb4L?si=Blzs32yCQ3WAtC636yCjDQ" title="Listen on Spotify" target="_blank" rel="noopener noreferrer"> <img src="https://penguji.id/spotify.svg" alt="Listen on Spotify" width="300"> </a>
+<a href="https://open.spotify.com/show/6OjzcKKNUruvxAxK2Wmb4L?si=Blzs32yCQ3WAtC636yCjDQ" title="Listen on Spotify" target="_blank" rel="noopener noreferrer"> <img src="https://penguji.github.io/spotify.svg" alt="Listen on Spotify" width="300"> </a>
 <p> </p>
 <p> </p>
             ]]>
@@ -49,19 +49,19 @@
         <author>
             <name>Fachrul Choliluddin</name>
         </author>
-        <link href="https://penguji.id/kenapa-harus-dites/"/>
-        <id>https://penguji.id/kenapa-harus-dites/</id>
+        <link href="https://penguji.github.io/kenapa-harus-dites/"/>
+        <id>https://penguji.github.io/kenapa-harus-dites/</id>
 
         <updated>2019-06-09T22:21:55+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://penguji.id/media/posts/4/60-km-h-accident-airbag-163016.jpg" alt="" />
+                        <img src="https://penguji.github.io/media/posts/4/60-km-h-accident-airbag-163016.jpg" alt="" />
                     Tidak ada gading yang tak retak, manusia cenderung melakukan kesalahan, dalam kesempatan ini kita akan bahas terkhusus pada rekayasa perangkat lunak, bahwa sering kali permasalahan yang timbul dikarenakan kurang memperhatikan hal-hal penting, salah asumsi, ceroboh, atau bahkan tidak tahu pasti apa yang dikerjakan sistem. Kita&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://penguji.id/media/posts/4/60-km-h-accident-airbag-163016.jpg" alt="" />
+                    <img src="https://penguji.github.io/media/posts/4/60-km-h-accident-airbag-163016.jpg" alt="" />
                 <p>Tidak ada gading yang tak retak, manusia cenderung melakukan kesalahan, dalam kesempatan ini kita akan bahas terkhusus pada rekayasa perangkat lunak, bahwa sering kali permasalahan yang timbul dikarenakan kurang memperhatikan hal-hal penting, salah asumsi, ceroboh, atau bahkan tidak tahu pasti apa yang dikerjakan sistem. Kita akan coba bahas mengenai topik ini ya.</p>
 <p>Note: Pengujian yang dimaksud disini tidak terbatas hanya validasi akhir oleh tim QA tapi hal testing secara umum, termasuk juga pengujian oleh developer, unit testing, maupun acceptance oleh PO.</p>
 <hr>
@@ -84,7 +84,7 @@
 Bisa saja suatu ketika karena sebuah kesalahan fatal bisa berdampak pada semua (ke-tiga) sisi tersebut sekaligus, misalkan ada kereta api pengangut limbah kimia ternyata kehilangan kendali atas kemudi kereta atau hilang sambungan komunikasi dan berpotensi terjadi tabrakan dengan KRL commuterline yang berisi ribuan pekerja Bekasi, mana titik temu di Manggarai pula ahaha mirip <a href="https://www.imdb.com/title/tt0477080/">film Unstopabble (2010)</a> ya :D
 <p>Kita tentu saja akan sependapat bahwa pengujian pada sistem komunikasi pesawat lebih penting daripada pengujian form pendaftaran mahasiswa baru, kenapa? karena risiko yang ada pada sistem komunikasi pesawat tentu lebih besar, karena efek yang ditimbulkan ketika terjadi kegagalan sistem akan sangat serius. </p>
 <p>Seringkali proses pengujian dihadapkan pada segitiga sumber daya, dimana skala prioritas menjadi kompromi, karena memaksimalkan ketiganya menjadi hal yang cukup sulit diwujudkan.</p>
-<p><img class="post__image" src="https://penguji.id/media/posts/4/segitiga-sumberdaya-proyek.png" alt="" width="489" height="279"></p>
+<p><img class="post__image" src="https://penguji.github.io/media/posts/4/segitiga-sumberdaya-proyek.png" alt="" width="489" height="279"></p>
 <p> </p>
 <h2 id="mcetoc_1dcucn4gp0">Kesimpulan</h2>
 <p>Tujuan dilaksanakannya proses pengujian adalah untuk memastikan bahwa fitur utama pada fungsionalitas dan non-fungsional sudah dipastikan sebelum aplikasi/program memasuki tahap lebih lanjut, dan segala kesalahan yang ada telah dilaporkan pada tim pengembang untuk ditindaklanjuti. Pengujian tidak bisa menghilangkan kesalahan ataupun meningkatkan kualitas secara langsung, melainkan dengan penemuan masalah tersebuat diawal sehingga perbaikan bisa segera dilaksanakan dan berkontribusi terhadap peningkatan mutu program.</p>
@@ -97,19 +97,19 @@ Bisa saja suatu ketika karena sebuah kesalahan fatal bisa berdampak pada semua (
         <author>
             <name>Fachrul Choliluddin</name>
         </author>
-        <link href="https://penguji.id/apa-itu-pengujian-aplikasi-komputer-software-testing/"/>
-        <id>https://penguji.id/apa-itu-pengujian-aplikasi-komputer-software-testing/</id>
+        <link href="https://penguji.github.io/apa-itu-pengujian-aplikasi-komputer-software-testing/"/>
+        <id>https://penguji.github.io/apa-itu-pengujian-aplikasi-komputer-software-testing/</id>
 
         <updated>2019-06-09T22:26:53+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://penguji.id/media/posts/2/evaluation-1516644_640.jpg" alt="" />
+                        <img src="https://penguji.github.io/media/posts/2/evaluation-1516644_640.jpg" alt="" />
                     Pada kesempatan kali ini kita akan bahas secara umum mengenai Software testing (pengujian program komputer). Kita akan kupas lebih dalam terkait dengan Apa, Kenapa, Siapa, Kapan, Bagaimana (4W1H) pengujian program komputer itu. Pengujian aplikasi/program komputer (software testing) adalah proses menilai kualitas sebuah sistem komputer, salah&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://penguji.id/media/posts/2/evaluation-1516644_640.jpg" alt="" />
+                    <img src="https://penguji.github.io/media/posts/2/evaluation-1516644_640.jpg" alt="" />
                 <p>Pada kesempatan kali ini kita akan bahas secara umum mengenai Software testing (pengujian program komputer). Kita akan kupas lebih dalam terkait dengan Apa, Kenapa, Siapa, Kapan, Bagaimana (4W1H) pengujian program komputer itu.</p>
 <hr>
 <h2 id="mcetoc_1dc7c7gdd0">Apa itu software testing (pengujian aplikasi komputer)?</h2>
@@ -192,19 +192,19 @@ Bisa saja suatu ketika karena sebuah kesalahan fatal bisa berdampak pada semua (
         <author>
             <name>Fachrul Choliluddin</name>
         </author>
-        <link href="https://penguji.id/cara-menjadi-software-quality-assurance-tester-test-engineer/"/>
-        <id>https://penguji.id/cara-menjadi-software-quality-assurance-tester-test-engineer/</id>
+        <link href="https://penguji.github.io/cara-menjadi-software-quality-assurance-tester-test-engineer/"/>
+        <id>https://penguji.github.io/cara-menjadi-software-quality-assurance-tester-test-engineer/</id>
 
         <updated>2019-06-10T06:03:22+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://penguji.id/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg" alt="" />
+                        <img src="https://penguji.github.io/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg" alt="" />
                     Selamat datang teman-teman, Pada kesempatan kali ini kita akan belajar sama-sama tentang Software testing (pengujian program komputer) sedari tingkat pemula atau baru meniti karir di dunia per-testingan. Kita akan coba membahas mengenai konsep dan metode pengujian yang telah saya praktikan sehari-hari. Kita awali dari tema&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://penguji.id/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg" alt="" />
+                    <img src="https://penguji.github.io/media/posts/1/artificial-intelligence-automation-bookcase-1329068.jpg" alt="" />
                 <p>Selamat datang teman-teman,</p>
 <p>Pada kesempatan kali ini kita akan belajar sama-sama tentang Software testing (pengujian program komputer) sedari tingkat pemula atau baru meniti karir di dunia per-testingan. Kita akan coba membahas mengenai konsep dan metode pengujian yang telah saya praktikan sehari-hari.</p>
 <p>Kita awali dari tema dasar pengujian program komputer hingga hal-hal yang lebih rumit lagi nantinya.</p>
